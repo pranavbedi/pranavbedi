@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 My name is Pranav, and I'm  studying Computer Science and Business Administration at UWaterloo and Wilfrid-Laurier
 
