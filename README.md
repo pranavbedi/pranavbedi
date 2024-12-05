@@ -4,6 +4,7 @@ My name is Pranav, and I'm  studying Computer Science and Business Administratio
 
 ### Current Work
 I'm currently...
+- Building Squeak. Check out more [here](https://squeak.today).
 - Building [Detox Dot](http://detoxdot.com) : A simple, physical tool that helps you unplug and reclaim control of your screen time and bring back your sttention span.
 - Building [Solomonoff](https://github.com/connortbot/solomonoff), a WIP local LLM inference engine for TinyLlama and Cohere models with my friend [Connor](https://github.com/connortbot)
 
