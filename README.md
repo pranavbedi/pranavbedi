@@ -23,7 +23,7 @@ Some cool stuff from before
 
 
 #### Contact Me!
-Inquiries: pranav.bedi@uwaterloo.ca  
+Inquiries: pranav [dot] bedi [at] uwaterloo [dot] ca  
 LinkedIn: https://www.linkedin.com/in/pranavbedi
 
 If you are interested in my work, hit me up! I love a little chit chat
