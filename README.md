@@ -11,10 +11,6 @@ buuuuut, that's the boring part here's what I'm really up to:
 - I'm also an internal dashboard demon (I like metrics)
 
 #### Software Engineering @ Shopify
-- Yk shopify.com? yeah I helped build alot of the pages there
-- Experimentation for growth and conversion optimization
-- Agentic webpage builder (allowing non technical folk to build cool things)
-- Website render optimization (for international / slower bandwith regions)
 
 Some cool stuff from before
 -  [Detox Dot](http://detoxdot.com) : A simple, physical tool that helps you unplug and reclaim control of your screen time and bring back your attention span.
